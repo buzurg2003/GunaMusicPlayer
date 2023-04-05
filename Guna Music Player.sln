@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guna Music Player", "Guna Music Player\Guna Music Player.csproj", "{F5053EF5-285C-4341-B76A-C782F2CBA33E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{63C83959-5302-47E6-833A-DCE258F16FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5053EF5-285C-4341-B76A-C782F2CBA33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5053EF5-285C-4341-B76A-C782F2CBA33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5053EF5-285C-4341-B76A-C782F2CBA33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5053EF5-285C-4341-B76A-C782F2CBA33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C83959-5302-47E6-833A-DCE258F16FAC}.Debug|Any CPU.ActiveCfg = Release
+		{63C83959-5302-47E6-833A-DCE258F16FAC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E738FE-A6D8-47D5-8FE1-84B154535EC5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,98 @@
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.exe.config
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.exe
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.pdb
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna_Music_Player.Properties.Resources.resources
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.CopyComplete
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.exe
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.pdb
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.CodeDom.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Data.Odbc.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Data.OleDb.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Drawing.Common.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.IO.Packaging.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.IO.Ports.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Permissions.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.Fody.CopyLocal.cache
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna_Music_Player.Home.resources
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\HW\Kurs4\ООП\Семестр 2\Курсовая работа\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.exe.config
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.exe
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Guna Music Player.pdb
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.CodeDom.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Data.Odbc.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Data.OleDb.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Drawing.Common.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.IO.Packaging.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.IO.Ports.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Permissions.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna_Music_Player.Home.resources
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna_Music_Player.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.Fody.CopyLocal.cache
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.exe
+C:\Users\Lenovo\Documents\Guna Music Player\Guna Music Player\obj\Debug\Guna Music Player.pdb
